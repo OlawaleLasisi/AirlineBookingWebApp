@@ -1,12 +1,9 @@
 ## AWS Serverless Airline Booking
 
-Serverless Airline Booking is a complete web application that provides Flight Search, Payment, Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until August 7th - Check out [Twitch branch for the list of 14 episodes](https://github.com/aws-samples/aws-serverless-airline-booking/tree/twitch).
+Serverless Airline Booking is a complete web application that provides Flight Search, Payment, Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. For more up-to-date information on what's being implemented, take a look at our current (https://github.com/OlawaleLasisi/AirlineBookingWebApp).
 
-For more up-to-date information on what's being implemented, take a look at our current [Boards](https://github.com/aws-samples/aws-serverless-airline-booking/projects).
-
-> UPDATE 2021: I'm [redesigning the Airline example](https://www.figma.com/file/Xtdkg865tOPTU3pdCvwMcn/Airline-App?node-id=0%3A1), including improvements like using latest features, improve security, fix domain boundaries, recreate Continuous Deployment, and a ton of performance improvements (pending Quasar v2 GA). 
+> I might update the design to include improvements like using latest features, improve security, fix domain boundaries, recreate Continuous Deployment, and a ton of performance improvements. 
 > 
-> Planning for Q4 2021 along with a public workshop based on this project - ping [@heitor_lessa](https://twitter.com/heitor_lessa) on Twitter if you ever get stuck.
 
 ![Serverless Airline Booking sample](./media/prototype-web.png)
 
